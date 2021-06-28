@@ -27,7 +27,7 @@ on three occasions, has posted a set of puzzles to recruit codebreakers from the
 So, the mental acrobatics started to get an interesting name for the group based on this reference.
 First we get the algorithm `rot n` and applied as following:
 
-$$ rot(3301, "cicada") = bhbzcz $$
+rot(3301, "cicada") = bhbzcz
 
 Where by taking each initial you get the sentence at the beginning of this README.
 
